@@ -127,3 +127,8 @@ In this step, we create the GUI of the Meter and the Button of Acceleratation.
 ![gitHub](https://github.com/MostafaEdrees11/Monitor_CAN_Frames_between_Two_MCUs_vis_CANoe/blob/master/img/Graph.JPG)
 
 ## Final View
+
+
+https://github.com/user-attachments/assets/ab4c3bf5-dc13-4cf7-bc13-206246d50990
+
+
